@@ -1,0 +1,4 @@
+John 25 Developer NewYork
+Alice 30 Designer Chicago
+Bob 22 Engineer Boston
+Jane 28 Manager Seattle
